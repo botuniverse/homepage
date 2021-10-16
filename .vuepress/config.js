@@ -1,6 +1,6 @@
 module.exports = {
     title: 'OneBot',
-    description: 'We only need OneBot in the Bot Universe.',
+    description: '一个聊天机器人应用接口标准',
     head: [
         ['link', { rel: 'icon', href: '/icons/favicon.ico' }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],

@@ -2,16 +2,16 @@
 home: true
 heroImage: /logo.png
 actionBtn:
-  text: OneBot 12 标准草案
+  text: OneBot 12 草案
   link: https://draft.1bot.dev/
   type: primary
-  size: large
+  size: medium
 preactionBtn:
-  text: OneBot 11 标准
+  text: OneBot 11
   link: https://11.1bot.dev/
   type: primary
   ghost: true
-  size: large
+  size: medium
 features:
 - title: 简洁
   details: 抽象了众多聊天机器人 API 通用的部分，以非常简洁的方式进行描述，保证极高表达能力的同时易于接入。
