@@ -40,6 +40,7 @@ sidebar: auto
 | ---| --- | --- | --- | --- |
 | Python | HTTP,<br>反向 WS | [nonebot/nonebot](https://github.com/nonebot/nonebot) | richardchien<br>yanyongyu |
 | Python | HTTP,<br>反向 WS | [nonebot/aiocqhttp](https://github.com/nonebot/aiocqhttp) | richardchien |
+| Python | HTTP,<br>正向 WS| [Lxns-Network/nakuru-project](https://github.com/Lxns-Network/nakuru-project) | JoinChang | 支持 CQ 码与消息链的转换处理 |
 | Node.js | 正向 WS | [momocow/node-cq-websocket](https://github.com/momocow/node-cq-websocket) | momocow | 项目不再更新 |
 | Node.js | HTTP,<br>正向 WS,<br>反向 WS | [koishijs/koishi](https://github.com/koishijs/koishi) | Shigma |
 | Node.js | 正向 WS | [CaoMeiYouRen/node-coolq-robot](https://github.com/CaoMeiYouRen/node-coolq-robot) | CaoMeiYouRen | 项目不再更新 |
