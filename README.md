@@ -3,7 +3,7 @@ home: true
 heroImage: /logo.png
 actionBtn:
   text: OneBot 12 草案
-  link: https://draft.1bot.dev/
+  link: https://12.1bot.dev/
   type: primary
   size: medium
 preactionBtn:
