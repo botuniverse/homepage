@@ -24,20 +24,20 @@ footerColumn: 3
 footerWrap: 
 - headline: 生态
   items:
-  - title: Link 1
-    link: #
-  - title: Link 2
-    link: #
-  - title: Link 3
-    link: #
+  - title: Bot Universe
+    link: https://github.com/botuniverse
+  - title: 生态项目列表
+    link: http://1bot.dev/ecosystem.html
+  - title: Awesome NoneBot
+    link: https://awesome.nonebot.dev
 - headline: 资源
   items:
-  - title: Link 1
+  - title: OneBot Book (敬请期待)
     link: #
-  - title: Link 2
-    link: #
-  - title: Link 3
-    link: #
+  - title: OneBot 12
+    link: https://12.1bot.dev
+  - title: OneBot 11
+    link: https://11.1bot.dev
 - headline: 社区
   items:
   - title: 论坛

@@ -18,12 +18,17 @@ module.exports = {
         smoothScroll: true,
         search: false,
         logo: "/logo.png",
-        repo: "https://github.com/botuniverse",
-        editLinks: false,
+        repo: "https://github.com/botuniverse/homepage",
+        editLinks: true,
+        editLinkText: '在 GitHub 上编辑此页',
         nav: [
             {
                 text: '主页',
                 link: '/'
+            },
+            {
+                text: '介绍',
+                link: '/introduction'
             },
             {
                 text: '生态',
