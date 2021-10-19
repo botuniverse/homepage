@@ -12,13 +12,13 @@ sidebar: auto
 
 理论上，基于 OneBot 标准开发的**任何** SDK、框架和机器人应用，都可以接入下面的不同实现。
 
-项目地址 | 聊天平台 | OneBot 版本 | 备注
+聊天平台 | OneBot 版本 | 项目地址 | 备注
 --- | --- | --- | ---
-[richardchien/coolq-http-api](https://github.com/richardchien/coolq-http-api) | QQ | 10 | 使用 [mirai-native](https://github.com/iTXTech/mirai-native) 加载
-[Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) | QQ | 11
-[yyuueexxiinngg/onebot-kotlin](https://github.com/yyuueexxiinngg/onebot-kotlin) | QQ | 11 |
-[takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot) | QQ | 11 |
-[Yiwen-Chan/OneBot-YaYa](https://github.com/Yiwen-Chan/OneBot-YaYa) | QQ | 11 |
+QQ | 10 | [richardchien/coolq-http-api](https://github.com/richardchien/coolq-http-api) | 使用 [mirai-native](https://github.com/iTXTech/mirai-native) 加载
+QQ | 11 | [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
+QQ | 11 | [yyuueexxiinngg/onebot-kotlin](https://github.com/yyuueexxiinngg/onebot-kotlin)
+QQ | 11 | [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot)
+QQ | 11 | [Yiwen-Chan/OneBot-YaYa](https://github.com/Yiwen-Chan/OneBot-YaYa)
 
 除了上面的实现，也欢迎大家在其它各类机器人平台实现 OneBot 标准，如果你已经实现了，欢迎通过 pull request 加到上面的表格里～
 
