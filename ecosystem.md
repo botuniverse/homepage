@@ -26,9 +26,9 @@ sidebar: auto
 
 OneBot 实现开发者可以基于 LibOneBot 来快速在新的聊天平台实现 OneBot 标准。
 
-语言 | 项目地址 | OneBot 版本
+语言 | OneBot 版本 | 项目地址
 --- | --- | ---
-Go | [botuniverse/go-libonebot](https://github.com/botuniverse/go-libonebot) | 12
+Go | 12 | [botuniverse/go-libonebot](https://github.com/botuniverse/go-libonebot)
 
 ## SDK / 开发框架
 
