@@ -3,12 +3,12 @@ home: true
 heroImage: /logo.png
 actionBtn:
   text: OneBot 12 草案
-  link: https://12.1bot.dev/
+  link: https://12.onebot.dev/
   type: primary
   size: medium
 preactionBtn:
   text: OneBot 11
-  link: https://11.1bot.dev/
+  link: https://11.onebot.dev/
   type: primary
   ghost: true
   size: medium
@@ -27,7 +27,7 @@ footerWrap:
   - title: Bot Universe
     link: https://github.com/botuniverse
   - title: 生态项目列表
-    link: http://1bot.dev/ecosystem.html
+    link: http://onebot.dev/ecosystem.html
   - title: Awesome NoneBot
     link: https://awesome.nonebot.dev
 - headline: 资源
@@ -35,9 +35,9 @@ footerWrap:
   - title: OneBot Book (敬请期待)
     link: #
   - title: OneBot 12
-    link: https://12.1bot.dev
+    link: https://12.onebot.dev
   - title: OneBot 11
-    link: https://11.1bot.dev
+    link: https://11.onebot.dev
 - headline: 社区
   items:
   - title: 论坛
