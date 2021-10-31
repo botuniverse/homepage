@@ -40,6 +40,7 @@ Python | 11 | HTTP,<br>反向 WS | [nonebot/nonebot](https://github.com/nonebot/
 Python | 11 | HTTP,<br>反向 WS | [nonebot/nonebot2](https://github.com/nonebot/nonebot2)
 Python | 11 | HTTP,<br>反向 WS | [nonebot/aiocqhttp](https://github.com/nonebot/aiocqhttp)
 Python | 11 | HTTP,<br>正向 WS | [Lxns-Network/nakuru-project](https://github.com/Lxns-Network/nakuru-project)
+Python | 11 | HTTP | [OlivOS-Team/OlivOS](https://github.com/OlivOS-Team/OlivOS)
 Node.js | 11 | HTTP,<br>正向 WS,<br>反向 WS | [koishijs/koishi](https://github.com/koishijs/koishi)
 Node.js | 11 | HTTP | [XHMM/lemon-bot](https://github.com/XHMM/lemon-bot)
 Deno | 11 | 反向 WS | [nenojs/deno-cqhttp](https://github.com/nenojs/deno-cqhttp)
