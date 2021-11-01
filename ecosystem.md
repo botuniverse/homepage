@@ -29,6 +29,7 @@ OneBot 实现开发者可以基于 LibOneBot 来快速在新的聊天平台实�
 语言 | OneBot 版本 | 项目地址
 --- | --- | ---
 Go | 12 | [botuniverse/go-libonebot](https://github.com/botuniverse/go-libonebot)
+Rust | 12 | [abrahum/Walle-core](https://github.com/abrahum/Walle-core)
 
 ## SDK / 开发框架
 
