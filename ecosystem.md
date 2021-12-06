@@ -112,3 +112,4 @@ C++ | 11 | 正向 WS | [super1207/MiraiCQ](https://github.com/super1207/MiraiCQ)
 [mgsky1/FG](https://github.com/mgsky1/FG) | 基于 NoneBot 的 QQ 群机器人，特色功能是利用机器学习算法提取每日的聊天热词，并使用词云+文本的方式进行展示
 [Yiwen-Chan/ZeroBot-Plugin](https://github.com/Yiwen-Chan/ZeroBot-Plugin) | 基于 ZeroBot 开发的群管、点歌、搜图等功能
 [yuudi/gypsum](https://github.com/yuudi/gypsum) | 简单易用的网页控制台，匹配消息进行回复，也可以使用 jinja 模板与 lua 脚本实现高级功能
+[purerosefallen/onebot-lb](https://github.com/purerosefallen/onebot-lb) | 基于 Koishi 和 Nest.js 编写的 OneBot 负载均衡器，可以将上游 OneBot 机器人提供方的消息与事件转发到下游应用，适用于高可用和云原生场景。
