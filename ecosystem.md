@@ -31,6 +31,12 @@ OneBot 实现开发者可以基于 LibOneBot 来快速在新的聊天平台实�
 Go | 12 | [botuniverse/go-libonebot](https://github.com/botuniverse/go-libonebot)
 Rust | 12 | [abrahum/Walle-core](https://github.com/abrahum/Walle-core)
 
+## 工具
+
+类型 | OneBot 版本 | 项目地址
+--- | --- | ---
+负载均衡器 | 12 | [purerosefallen/onebot-lb](https://github.com/purerosefallen/onebot-lb)
+
 ## SDK / 开发框架
 
 对于使用下面这些语言的机器人开发者，如果不想自己处理繁杂的请求和解析操作，可以尝试使用已经封装好的 SDK 或开发框架。
