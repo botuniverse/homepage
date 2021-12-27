@@ -35,7 +35,7 @@ Rust | 12 | [abrahum/Walle-core](https://github.com/abrahum/Walle-core)
 
 类型 | OneBot 版本 | 项目地址
 --- | --- | ---
-负载均衡器 | 12 | [purerosefallen/onebot-lb](https://github.com/purerosefallen/onebot-lb)
+负载均衡器 | 11 | [purerosefallen/onebot-lb](https://github.com/purerosefallen/onebot-lb)
 
 ## SDK / 开发框架
 
