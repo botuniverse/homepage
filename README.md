@@ -19,7 +19,7 @@ features:
   details: 标准的制定采用开放的运作模式，由社区提出改进建议（RFC），再由委员会评议决定接收。
 - title: 可扩展
   details: 针对不同聊天机器人平台提供的特色功能，OneBot 实现可根据需要对标准进行扩展。
-footer: Copyright © 2021 OneBot Community
+footer: Copyright © 2022 OneBot Community
 footerColumn: 3
 footerWrap: 
 - headline: 生态
