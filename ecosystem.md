@@ -20,6 +20,7 @@ QQ | 11 | [yyuueexxiinngg/onebot-kotlin](https://github.com/yyuueexxiinngg/onebo
 QQ | 11 | [takayama-lily/oicq](https://github.com/takayama-lily/oicq/tree/master/http-api) | 原仓库为 [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot)
 QQ | 11 | [Yiwen-Chan/OneBot-YaYa](https://github.com/Yiwen-Chan/OneBot-YaYa)
 开黑啦 | 11 | [kaiheila-community/kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebot)
+QQ | 12 | [abrahum/walle-q](https://github.com/abrahum/walle-q)
 
 除了上面的实现，也欢迎大家在其它各类机器人平台实现 OneBot 标准，如果你已经实现了，欢迎通过 pull request 加到上面的表格里～
 
