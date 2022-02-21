@@ -83,6 +83,7 @@ C++ | 11 | 正向 WS | [super1207/MiraiCQ](https://github.com/super1207/MiraiCQ)
 文章 | [使用 nonebot 搭建 qq 群聊机器人](https://zhuanlan.zhihu.com/p/340849952) | NoneBot 1
 视频 | [基于 nonebot2 的 QQ 机器人的制作](https://www.bilibili.com/video/BV1JK4y1D7kX) | NoneBot 2
 视频 | [Python 和 QQ 机器人开发基础培训](https://www.bilibili.com/video/BV19t411679V) | NoneBot 1 | 部分内容可能过时，需参考最新文档食用
+文章 | [快速搭建 QQ 聊天机器人](https://zhuanlan.zhihu.com/p/470034281) | Yoeth
 
 ## 应用案例
 
