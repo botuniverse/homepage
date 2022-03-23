@@ -37,9 +37,10 @@ Deno | 12 | [teyda/teyda_libonebot](https://github.com/teyda/teyda_libonebot)
 
 ## 工具
 
-类型 | OneBot 版本 | 项目地址
+功能 | OneBot 版本 | 项目地址
 --- | --- | ---
-负载均衡器 | 11 | [purerosefallen/onebot-lb](https://github.com/purerosefallen/onebot-lb)
+负载均衡 | 11 | [purerosefallen/onebot-lb](https://github.com/purerosefallen/onebot-lb)
+多账号控制 | 11 | [lunzhiPenxil/OlivOSOnebotV11](https://github.com/lunzhiPenxil/OlivOSOnebotV11)
 
 ## SDK / 开发框架
 
