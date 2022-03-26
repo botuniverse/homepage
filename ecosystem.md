@@ -14,7 +14,7 @@ sidebar: auto
 
 聊天平台 | OneBot 版本 | 项目地址 | 备注
 --- | --- | --- | ---
-QQ | 12 | [abrahum/walle-q](https://github.com/abrahum/walle-q)
+QQ | 12, 11 | [abrahum/walle-q](https://github.com/abrahum/walle-q)
 QQ | 11 | [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 QQ | 11 | [yyuueexxiinngg/onebot-kotlin](https://github.com/yyuueexxiinngg/onebot-kotlin)
 QQ | 11 | [takayama-lily/oicq](https://github.com/takayama-lily/oicq/tree/master/http-api) | 原仓库为 [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot)
@@ -31,7 +31,7 @@ OneBot 实现开发者可以基于 LibOneBot 来快速在新的聊天平台实�
 语言 | OneBot 版本 | 项目地址
 --- | --- | ---
 Go | 12 | [botuniverse/go-libonebot](https://github.com/botuniverse/go-libonebot)
-Rust | 12 | [abrahum/Walle-core](https://github.com/abrahum/Walle-core)
+Rust | 12, 11 | [abrahum/Walle-core](https://github.com/abrahum/Walle-core)
 PHP | 12 | [botuniverse/php-libonebot](https://github.com/botuniverse/php-libonebot)
 Deno | 12 | [teyda/teyda_libonebot](https://github.com/teyda/teyda_libonebot)
 
