@@ -20,7 +20,7 @@ QQ | 11 | [yyuueexxiinngg/onebot-kotlin](https://github.com/yyuueexxiinngg/onebo
 QQ | 11 | [takayama-lily/oicq](https://github.com/takayama-lily/oicq/tree/master/http-api) | 原仓库为 [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot)
 QQ | 11 | [Yiwen-Chan/OneBot-YaYa](https://github.com/Yiwen-Chan/OneBot-YaYa)
 开黑啦 | 11 | [kaiheila-community/kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebot)
-QQ | 12 | [abrahum/walle-q](https://github.com/abrahum/walle-q)
+QQ | 11/12 | [abrahum/walle-q](https://github.com/abrahum/walle-q)
 
 除了上面的实现，也欢迎大家在其它各类机器人平台实现 OneBot 标准，如果你已经实现了，欢迎通过 pull request 加到上面的表格里～
 
@@ -31,7 +31,7 @@ OneBot 实现开发者可以基于 LibOneBot 来快速在新的聊天平台实�
 语言 | OneBot 版本 | 项目地址
 --- | --- | ---
 Go | 12 | [botuniverse/go-libonebot](https://github.com/botuniverse/go-libonebot)
-Rust | 12 | [abrahum/Walle-core](https://github.com/abrahum/Walle-core)
+Rust | 11/12 | [abrahum/Walle-core](https://github.com/abrahum/Walle-core)
 PHP | 12 | [botuniverse/php-libonebot](https://github.com/botuniverse/php-libonebot)
 
 ## 工具
