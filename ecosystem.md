@@ -55,7 +55,7 @@ Python | 11 | HTTP,<br>正向 WS | [Lxns-Network/nakuru-project](https://github.
 Python | 11 | HTTP | [OlivOS-Team/OlivOS](https://github.com/OlivOS-Team/OlivOS)
 Node.js | 11 | HTTP,<br>正向 WS,<br>反向 WS | [koishijs/koishi](https://github.com/koishijs/koishi)
 Node.js | 11 | HTTP | [XHMM/lemon-bot](https://github.com/XHMM/lemon-bot)
-Deno | 12 | 正向 WS,<br/>反向 WS | [yoeth](https://github.com/yoeth/yoeth)
+Deno<br/>(JavaScript) | 12 | HTTP,<br/>正向 WS,<br/>反向 WS | [yoeth](https://github.com/yoeth/yoeth)
 Deno | 11 | 反向 WS | [nenojs/deno-cqhttp](https://github.com/nenojs/deno-cqhttp)
 PHP | 11 | 反向 WS | [zhamao-robot/zhamao-framework](https://github.com/zhamao-robot/zhamao-framework)
 PHP | 11 | HTTP | [LovelyA72/YeziiBot-v2](https://github.com/LovelyA72/YeziiBot-v2)
