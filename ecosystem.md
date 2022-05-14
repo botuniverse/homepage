@@ -15,6 +15,7 @@ sidebar: auto
 聊天平台 | OneBot 版本 | 项目地址 | 备注
 --- | --- | --- | ---
 QQ | 12, 11 | [abrahum/walle-q](https://github.com/abrahum/walle-q)
+Telegram | 12 | [teyda/teyda_preview](https://github.com/teyda/teyda_preview)
 QQ | 11 | [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 QQ | 11 | [yyuueexxiinngg/onebot-kotlin](https://github.com/yyuueexxiinngg/onebot-kotlin)
 QQ | 11 | [takayama-lily/oicq](https://github.com/takayama-lily/oicq/tree/master/http-api) | 原仓库为 [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot)
