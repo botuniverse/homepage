@@ -76,7 +76,9 @@ C# | 11 | 反向 WS | [cqbef/cqhttp.WebSocketReverse.NETCore](https://github.com
 C# | 11 | 正向 WS,<br>反向 WS | [Yukari316/Sora](https://github.com/Yukari316/Sora)
 C# | 11 | 反向 WS | [ParaParty/OneBot-Framework](https://github.com/ParaParty/OneBot-Framework)
 C++ | 11 | 正向 WS | [super1207/MiraiCQ](https://github.com/super1207/MiraiCQ) | super1207
+Ruby | 11 | 正向 WS<br>反向 WS | [fantasyzhjk/ruby-cqhttp](https://github.com/fantasyzhjk/ruby-cqhttp)
 Rust | 12 | 正向 WS<br>反向 WS | [abrahum/Walle](https://github.com/abrahum/Walle)
+
 
 ## 教程
 
