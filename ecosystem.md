@@ -79,7 +79,6 @@ C++ | 11 | 正向 WS | [super1207/MiraiCQ](https://github.com/super1207/MiraiCQ)
 Rust | 12 | 正向 WS<br>反向 WS | [abrahum/Walle](https://github.com/abrahum/Walle)
 Ruby | 11 | 正向 WS<br>反向 WS | [fantasyzhjk/ruby-cqhttp](https://github.com/fantasyzhjk/ruby-cqhttp)
 
-
 ## 教程
 
 如果想要学习如何基于 OneBot 标准开发聊天机器人应用，可以参考这些教程。
