@@ -114,7 +114,7 @@ Ruby | 11 | 正向 WS<br>反向 WS | [fantasyzhjk/ruby-cqhttp](https://github.co
 [Ice-Hazymoon/grnd_bot](https://github.com/Ice-Hazymoon/grnd_bot) | 订阅 RSSHub 更新并推送到 QQ 群
 [Ray-Eldath/Avalon](https://github.com/Ray-Eldath/Avalon) | 多功能、可扩展的群机器人，支持 QQ 和 Discord
 [Bluefissure/FFXIVBOT](https://github.com/Bluefissure/FFXIVBOT) | 基于 Django Channels 的最终幻想 14 游戏数据查询机器人
-[Milkitic/daylily](https://github.com/Milkitic/daylily) | 基于MilkiBotFramework的机器人，可作为MilkiBotFramework示例仓库。
+[Milkitic/daylily](https://github.com/Milkitic/daylily) | 基于 MilkiBotFramework 的机器人，可作为 MilkiBotFramework 示例仓库
 [cczu-osa/aki](https://github.com/cczu-osa/aki) | 基于 NoneBot 的多功能 QQ 机器人
 [cleoold/sendo-erika](https://github.com/cleoold/sendo-erika) | 基于 cqhttp 和 NoneBot 的，主要通过私聊摇控的 QQ 机器人
 [duan602728596/qqtools](https://github.com/duan602728596/qqtools) | 基于 Nwjs 的 QQ 群工具（摩点、口袋 48、微博提醒、入群欢迎、定时喊话、自定义命令和回复信息等）
