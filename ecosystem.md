@@ -70,7 +70,7 @@ Java / Kotlin | 11 | 反向 WS | [MisakaTAT/Shiro](https://github.com/MisakaTAT/
 Kotlin | 11 | HTTP | [JuerGenie/juerobot](https://github.com/JuerGenie/juerobot)
 Go | 11 | 正向 WS | [wdvxdr1123/ZeroBot](https://github.com/wdvxdr1123/ZeroBot)
 Go | 11 | 正向 WS | [0ojixueseno0/gp-Pichubot](https://github.com/0ojixueseno0/go-Pichubot)
-C# | 11 | HTTP,<br>正向 WS | [int-and-his-friends/Sisters.WudiLib](https://github.com/int-and-his-friends/Sisters.WudiLib)
+C# | 11 | HTTP,<br>正向 WS,<br>反向 WS | [int-and-his-friends/Sisters.WudiLib](https://github.com/int-and-his-friends/Sisters.WudiLib)
 C# | 11 | HTTP,<br>正向 WS,<br>反向 WS | [frank-bots/cqhttp.Cyan](https://github.com/frank-bots/cqhttp.Cyan)
 C# | 11 | 反向 WS | [cqbef/cqhttp.WebSocketReverse.NETCore](https://github.com/cqbef/cqhttp.WebSocketReverse.NETCore)
 C# | 11 | 正向 WS,<br>反向 WS | [Yukari316/Sora](https://github.com/Yukari316/Sora)
