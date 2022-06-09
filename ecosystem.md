@@ -75,6 +75,7 @@ C# | 11 | HTTP,<br>正向 WS,<br>反向 WS | [frank-bots/cqhttp.Cyan](https://gi
 C# | 11 | 反向 WS | [cqbef/cqhttp.WebSocketReverse.NETCore](https://github.com/cqbef/cqhttp.WebSocketReverse.NETCore)
 C# | 11 | 正向 WS,<br>反向 WS | [Yukari316/Sora](https://github.com/Yukari316/Sora)
 C# | 11 | 反向 WS | [ParaParty/OneBot-Framework](https://github.com/ParaParty/OneBot-Framework)
+C# | 11 | HTTP,<br>正向 WS,<br>反向 WS | [Milkitic/MilkiBotFramework](https://github.com/Milkitic/MilkiBotFramework)
 C++ | 11 | 正向 WS | [super1207/MiraiCQ](https://github.com/super1207/MiraiCQ)
 Rust | 12 | 正向 WS<br>反向 WS | [abrahum/Walle](https://github.com/abrahum/Walle)
 Ruby | 11 | 正向 WS<br>反向 WS | [fantasyzhjk/ruby-cqhttp](https://github.com/fantasyzhjk/ruby-cqhttp)
@@ -113,7 +114,7 @@ Ruby | 11 | 正向 WS<br>反向 WS | [fantasyzhjk/ruby-cqhttp](https://github.co
 [Ice-Hazymoon/grnd_bot](https://github.com/Ice-Hazymoon/grnd_bot) | 订阅 RSSHub 更新并推送到 QQ 群
 [Ray-Eldath/Avalon](https://github.com/Ray-Eldath/Avalon) | 多功能、可扩展的群机器人，支持 QQ 和 Discord
 [Bluefissure/FFXIVBOT](https://github.com/Bluefissure/FFXIVBOT) | 基于 Django Channels 的最终幻想 14 游戏数据查询机器人
-[Milkitic/Daylily](https://github.com/Milkitic/Daylily) | 基于 ASP.NET Core 的跨平台机器人（含快速开发插件框架）
+[Milkitic/daylily](https://github.com/Milkitic/daylily) | 基于 MilkiBotFramework 的机器人，可作为 MilkiBotFramework 示例仓库
 [cczu-osa/aki](https://github.com/cczu-osa/aki) | 基于 NoneBot 的多功能 QQ 机器人
 [cleoold/sendo-erika](https://github.com/cleoold/sendo-erika) | 基于 cqhttp 和 NoneBot 的，主要通过私聊摇控的 QQ 机器人
 [duan602728596/qqtools](https://github.com/duan602728596/qqtools) | 基于 Nwjs 的 QQ 群工具（摩点、口袋 48、微博提醒、入群欢迎、定时喊话、自定义命令和回复信息等）
