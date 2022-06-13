@@ -34,7 +34,7 @@ OneBot 实现开发者可以基于 LibOneBot 来快速在新的聊天平台实�
 Go | 12 | [botuniverse/go-libonebot](https://github.com/botuniverse/go-libonebot)
 Rust | 12, 11 | [abrahum/Walle-core](https://github.com/abrahum/Walle-core)
 PHP | 12 | [botuniverse/php-libonebot](https://github.com/botuniverse/php-libonebot)
-Deno | 12 | [teyda/teyda_libonebot](https://github.com/teyda/teyda_libonebot)
+Deno | 12 | [teyda/dnlibob](https://github.com/teyda/dnlibob)
 
 ## 工具
 
