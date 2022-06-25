@@ -19,6 +19,8 @@ export default {
             pattern: 'https://github.com/botuniverse/homepage/edit/main/docs/:path',
             text: '在 GitHub 上编辑此页'
         },
+        lastUpdatedText: '上次更新',
+        outlineTitle: '本页目录',
 
         socialLinks: [
             { icon: 'github', link: 'https://github.com/botuniverse/homepage' }
