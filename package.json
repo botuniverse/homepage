@@ -1,0 +1,17 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "Landing page of OneBot chatbot API standard.",
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "serve": "vitepress serve ."
+  },
+  "repository": "git@github.com:botuniverse/homepage.git",
+  "author": "Richard Chien <stdrc@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "1.0.0-alpha.4",
+    "vue": "3.2.33"
+  }
+}

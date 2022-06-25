@@ -1,0 +1,47 @@
+:root {
+    --color-midnight: #2f3641;
+    --color-starlight: #f0e4d3;
+    --color-space-gray: #767779;
+    --color-silver: #e3e4e6;
+    --color-silver2: #f2f2ed;
+    --color-alpine-green: #576956;
+    --color-gold: #f8e5cd;
+    --color-graphite: #53524e;
+    --color-sierra-blue: #a8bfd7;
+
+    --vp-c-text-2: var(--color-space-gray);
+
+    --vp-c-brand: var(--color-midnight);
+    --vp-c-brand-dark: var(--color-space-gray);
+    --vp-c-brand-light: var(--color-graphite);
+
+    --vp-button-brand-border: var(--color-silver2);
+    --vp-button-brand-hover-border: var(--color-silver2);
+    --vp-button-brand-bg: var(--color-midnight);
+    --vp-button-brand-hover-bg: var(--vp-c-black-soft);
+    --vp-button-alt-border: var(--color-space-gray);
+    --vp-button-alt-hover-border: var(--color-space-gray);
+    --vp-button-alt-bg: var(--color-silver2);
+    --vp-button-alt-hover-bg: var(--color-silver);
+
+    --vp-c-bg-soft: var(--color-silver2);
+}
+
+.dark {
+    --vp-c-text-2: var(--color-silver);
+
+    --vp-c-brand: var(--color-starlight);
+    --vp-c-brand-dark: var(--color-space-gray);
+    --vp-c-brand-light: var(--color-graphite);
+
+    --vp-button-brand-border: var(--color-starlight);
+    --vp-button-brand-hover-border: var(--color-starlight);
+    --vp-button-brand-bg: var(--color-midnight);
+    --vp-button-brand-hover-bg: var(--color-space-gray);
+    --vp-button-alt-border: var(--vp-c-gray);
+    --vp-button-alt-hover-border: var(--vp-c-gray);
+    --vp-button-alt-bg: var(--color-graphite);
+    --vp-button-alt-hover-bg: var(--color-space-gray);
+
+    --vp-c-bg-soft: var(--color-graphite);
+}
