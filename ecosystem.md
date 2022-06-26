@@ -12,7 +12,9 @@
 - **OneBot SDK** 指的是帮助 OneBot 用户对接 OneBot 实现，使用户不需要自行编写 HTTP、WebSocket 等通信逻辑的库，可简称为 **SDK** 或**框架**；
 - **工具 / 中间件**指的是在 OneBot 实现和 OneBot SDK 之间作为中间层进行协调转发的程序，或是其它辅助 OneBot 实现和 SDK 运行的程序。
 
-除了下面这些项目，也欢迎大家基于 OneBot 标准编写其它各类实现、框架、工具等，如果你已经实现了，欢迎通过 pull request 加到对应的表格里～
+除了下面这些项目，也欢迎大家基于 OneBot 标准编写其它各类实现、框架、工具等，如果你已经实现了，欢迎通过 pull request 加到对应的列表中～
+
+更多 GitHub 上的 OneBot 相关项目请查看 [onebot](https://github.com/topics/onebot?o=desc&s=updated) 和 [cqhttp](https://github.com/topics/cqhttp?o=desc&s=updated) 等 topic。
 :::
 
 ## OneBot 12
