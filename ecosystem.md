@@ -59,7 +59,7 @@
 - 【Python】[nonebot/nonebot](https://github.com/nonebot/nonebot)
 - 【Python】[nonebot/aiocqhttp](https://github.com/nonebot/aiocqhttp)
 - 【Python】[SSmJaE/PepperBot](https://github.com/SSmJaE/PepperBot)
-- 【Python】[GraiaProject/AvillaCore](https://github.com/GraiaProject/AvillaCore)
+- 【Python】[GraiaProject/Avilla](https://github.com/GraiaProject/Avilla)
 - 【Python】[Lxns-Network/nakuru-project](https://github.com/Lxns-Network/nakuru-project)
 - 【Python】[OlivOS-Team/OlivOS](https://github.com/OlivOS-Team/OlivOS)
 - 【Node】[koishijs/koishi](https://github.com/koishijs/koishi)
@@ -135,5 +135,11 @@
 - [suisei-cn/stargazer-qq](https://github.com/suisei-cn/stargazer-qq)：一个灵活的 vtuber 发推/直播动态监控机器人
 - [Ninzore/Wecab](https://github.com/Ninzore/Wecab)：网络内容聚合机器人，支持微博、B站、Twitter 等
 - [mgsky1/FG](https://github.com/mgsky1/FG)：基于 NoneBot 的 QQ 群机器人，特色功能是利用机器学习算法提取每日的聊天热词，并使用词云+文本的方式进行展示
-- [Yiwen-Chan/ZeroBot-Plugin](https://github.com/Yiwen-Chan/ZeroBot-Plugin)：基于 ZeroBot 开发的群管、点歌、搜图等功能
+- [FloatTech/ZeroBot-Plugin](https://github.com/FloatTech/ZeroBot-Plugin)：基于 ZeroBot 开发的群管、点歌、搜图等功能
 - [yuudi/gypsum](https://github.com/yuudi/gypsum)：简单易用的网页控制台，匹配消息进行回复，也可以使用 jinja 模板与 lua 脚本实现高级功能
+- [RicheyJang/PaimengBot](https://github.com/RicheyJang/PaimengBot): 基于 ZeroBot 的 QQ 娱乐机器人，支持 20 余种功能，可以大大丰富你的 QQ 体验或群活跃度
+- [Alex1911-Jiang/GreenOnions](https://github.com/Alex1911-Jiang/GreenOnions): 实现了搜图、RSS 订阅转发,、根据 Pixiv ID 下载原图、翻译、setu 等功能
+- [DeepOceanSoft/AntiRainBot](https://github.com/DeepOceanSoft/AntiRainBot): 一个主要为辅助游玩公主连结的群聊机器人
+- [idanran/myrtus](https://github.com/idanran/myrtus): 在多个群组间传话的机器人
+- [Kyomotoi/ATRI](https://github.com/Kyomotoi/ATRI): 为🐧即时聊天工具中复现一只优秀的功能性机器人是本项目的目标
+- [KimigaiiWuyi/GenshinUID](https://github.com/KimigaiiWuyi/GenshinUID): 基于 HoshinoBot/NoneBot2/QQ 官方频道 Bot (Python SDK) 的原神 Uid 查询/原神 Wiki/米社签到/树脂提醒插件
