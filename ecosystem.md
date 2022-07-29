@@ -38,7 +38,7 @@
 - 【Rust】[abrahum/Walle](https://github.com/abrahum/Walle)
 - 【Python】[nonebot/nonebot2](https://github.com/nonebot/nonebot2)
 - 【C#】[theGravityLab/Onebot.Net](https://github.com/theGravityLab/Onebot.Net)
-- 【Node/ts】[Circkoooooo/cqhttp-ts](https://github.com/Circkoooooo/cqhttp-ts)
+- 【Node】[Circkoooooo/cqhttp-ts](https://github.com/Circkoooooo/cqhttp-ts)
 
 ### 工具 / 中间件
 
