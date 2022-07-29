@@ -39,6 +39,7 @@
 - 【Python】[nonebot/nonebot2](https://github.com/nonebot/nonebot2)
 - 【C#】[theGravityLab/Onebot.Net](https://github.com/theGravityLab/Onebot.Net)
 - 【Node】[Circkoooooo/cqhttp-ts](https://github.com/Circkoooooo/cqhttp-ts)
+- 【GO】[BoyChai/CoralBot](https://github.com/BoyChai/CoralBot)
 
 ### 工具 / 中间件
 
