@@ -38,7 +38,6 @@
 - 【Rust】[abrahum/Walle](https://github.com/abrahum/Walle)
 - 【Python】[nonebot/nonebot2](https://github.com/nonebot/nonebot2)
 - 【C#】[theGravityLab/Onebot.Net](https://github.com/theGravityLab/Onebot.Net)
-- 【Node】[Circkoooooo/cqhttp-ts](https://github.com/Circkoooooo/cqhttp-ts)
 
 ### 工具 / 中间件
 
@@ -65,12 +64,14 @@
 - 【Python】[Lxns-Network/nakuru-project](https://github.com/Lxns-Network/nakuru-project)
 - 【Python】[OlivOS-Team/OlivOS](https://github.com/OlivOS-Team/OlivOS)
 - 【Node】[koishijs/koishi](https://github.com/koishijs/koishi)
+- 【Node】[Circkoooooo/cqhttp-ts](https://github.com/Circkoooooo/cqhttp-ts)
 - 【Deno】[satouriko/deno-cqhttp](https://github.com/satouriko/deno-cqhttp)
 - 【PHP】[zhamao-robot/zhamao-framework](https://github.com/zhamao-robot/zhamao-framework)
 - 【PHP】[LovelyA72/YeziiBot-v2](https://github.com/LovelyA72/YeziiBot-v2)
 - 【PHP】[ParaParty/MPBot](https://github.com/ParaParty/MPBot)
 - 【Go】[wdvxdr1123/ZeroBot](https://github.com/wdvxdr1123/ZeroBot)
 - 【Go】[AkiinuBot/go-Pichubot](https://github.com/AkiinuBot/go-Pichubot)
+- 【Go】[BoyChai/CoralBot](https://github.com/BoyChai/CoralBot)
 - 【C#】[int-and-his-friends/Sisters.WudiLib](https://github.com/int-and-his-friends/Sisters.WudiLib)
 - 【C#】[frank-bots/cqhttp.Cyan](https://github.com/frank-bots/cqhttp.Cyan)
 - 【C#】[Yukari316/Sora](https://github.com/Yukari316/Sora)
