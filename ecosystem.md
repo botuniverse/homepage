@@ -21,7 +21,7 @@
 
 ### OneBot 实现
 
-- 【QQ】[abrahum/walle-q](https://github.com/abrahum/walle-q)
+- 【QQ】[onebot-walle/walle-q](https://github.com/onebot-walle/walle-q)
 - 【QQ】[Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp/tree/onebot.v12)（正在适配中）
 - 【Telegram】[teyda/teyda_preview](https://github.com/teyda/teyda_preview)
 - 【微信公众号】[crazywhalecc/onebot-woap](https://github.com/crazywhalecc/onebot-woap)
@@ -29,13 +29,13 @@
 ### LibOneBot
 
 - 【Go】[botuniverse/go-libonebot](https://github.com/botuniverse/go-libonebot)
-- 【Rust】[abrahum/Walle-core](https://github.com/abrahum/Walle-core)
+- 【Rust】[onebot-walle/Walle-core](https://github.com/onebot-walle/Walle-core)
 - 【PHP】[botuniverse/php-libonebot](https://github.com/botuniverse/php-libonebot)
 - 【Deno】[teyda/dnlibob](https://github.com/teyda/dnlibob)
 
 ### OneBot SDK
 
-- 【Rust】[abrahum/Walle](https://github.com/abrahum/Walle)
+- 【Rust】[onebot-walle/Walle](https://github.com/onebot-walle/Walle)
 - 【Python】[nonebot/nonebot2](https://github.com/nonebot/nonebot2)
 - 【C#】[theGravityLab/Onebot.Net](https://github.com/theGravityLab/Onebot.Net)
 
