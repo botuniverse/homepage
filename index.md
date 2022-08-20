@@ -10,14 +10,11 @@ hero:
   tagline: 简洁、通用、可扩展，只需使用一套标准即可为各种平台编写聊天机器人。
   actions:
     - theme: brand
-      text: OneBot 12 草案
+      text: OneBot 12 标准
       link: https://12.onebot.dev
     - theme: alt
       text: GitHub
       link: https://github.com/botuniverse/onebot
-    - theme: alt
-      text: OneBot 11
-      link: https://11.onebot.dev
 
 features:
   - title: 简洁
