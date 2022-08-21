@@ -31,7 +31,7 @@
 - 【Go】[botuniverse/go-libonebot](https://github.com/botuniverse/go-libonebot)
 - 【Rust】[onebot-walle/Walle-core](https://github.com/onebot-walle/Walle-core)
 - 【PHP】[botuniverse/php-libonebot](https://github.com/botuniverse/php-libonebot)
-- 【Deno】[teyda/dnlibob](https://github.com/teyda/dnlibob)
+- 【Deno】[botuniverse/dnlibob](https://github.com/teyda/dnlibob)
 
 ### OneBot SDK
 
