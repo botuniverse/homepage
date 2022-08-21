@@ -16,7 +16,7 @@ export default {
         ],
 
         editLink: {
-            pattern: 'https://github.com/botuniverse/homepage/edit/main/docs/:path',
+            pattern: 'https://github.com/botuniverse/homepage/edit/main/:path',
             text: '在 GitHub 上编辑此页'
         },
         lastUpdatedText: '上次更新',
