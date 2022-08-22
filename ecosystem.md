@@ -38,6 +38,7 @@
 - 【Rust】[onebot-walle/Walle](https://github.com/onebot-walle/Walle)
 - 【Python】[nonebot/nonebot2](https://github.com/nonebot/nonebot2)
 - 【C#】[theGravityLab/Onebot.Net](https://github.com/theGravityLab/Onebot.Net)
+- 【Ruby】[fantasyzhjk/onebot-ruby](https://github.com/fantasyzhjk/onebot-ruby)
 
 ### 工具 / 中间件
 
@@ -84,7 +85,6 @@
 - 【Java / Kotlin】[MisakaTAT/Shiro](https://github.com/MisakaTAT/Shiro)
 - 【Java / Kotlin】[JuerGenie/juerobot](https://github.com/JuerGenie/juerobot)
 - 【C++】[super1207/MiraiCQ](https://github.com/super1207/MiraiCQ)
-- 【Ruby】[fantasyzhjk/ruby-cqhttp](https://github.com/fantasyzhjk/ruby-cqhttp)
 
 ### 工具 / 中间件
 
