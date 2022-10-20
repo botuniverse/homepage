@@ -74,6 +74,7 @@
 - 【Go】[wdvxdr1123/ZeroBot](https://github.com/wdvxdr1123/ZeroBot)
 - 【Go】[AkiinuBot/go-Pichubot](https://github.com/AkiinuBot/go-Pichubot)
 - 【Go】[BoyChai/CoralBot](https://github.com/BoyChai/CoralBot)
+- 【C#】[FlandreDevs/Flandre](https://github.com/FlandreDevs/Flandre)
 - 【C#】[int-and-his-friends/Sisters.WudiLib](https://github.com/int-and-his-friends/Sisters.WudiLib)
 - 【C#】[frank-bots/cqhttp.Cyan](https://github.com/frank-bots/cqhttp.Cyan)
 - 【C#】[Yukari316/Sora](https://github.com/Yukari316/Sora)
