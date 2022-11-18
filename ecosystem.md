@@ -148,3 +148,4 @@
 - [idanran/myrtus](https://github.com/idanran/myrtus): 在多个群组间传话的机器人
 - [Kyomotoi/ATRI](https://github.com/Kyomotoi/ATRI): 为🐧即时聊天工具中复现一只优秀的功能性机器人是本项目的目标
 - [KimigaiiWuyi/GenshinUID](https://github.com/KimigaiiWuyi/GenshinUID): 基于 HoshinoBot/NoneBot2/QQ 官方频道 Bot (Python SDK) 的原神 Uid 查询/原神 Wiki/米社签到/树脂提醒插件
+- [Hoshinonyaruko/Sanaebot](https://github.com/Hoshinonyaruko/SanaeBot): 使用 Epl 编写的 MyPCQQ（MPQ）到 OneBot 11 兼容的娱乐聊天词库机器人——早苗，兼容层兼容 QQ 频道、KOOK、DoDo
