@@ -125,7 +125,6 @@
 - [Ice-Hazymoon/grnd_bot](https://github.com/Ice-Hazymoon/grnd_bot)：订阅 RSSHub 更新并推送到 QQ 群
 - [Ray-Eldath/Avalon](https://github.com/Ray-Eldath/Avalon)：多功能、可扩展的群机器人，支持 QQ 和 Discord
 - [Bluefissure/FFXIVBOT](https://github.com/Bluefissure/FFXIVBOT)：基于 Django Channels 的最终幻想 14 游戏数据查询机器人
-- [Hoshinonyaruko/Sanaebot](https://github.com/Hoshinonyaruko/SanaeBot): 使用 Epl 编写的 Mypcqq(MPQ) 到OnebotV11兼容的娱乐聊天词库机器人，早苗，兼容层兼容qq频道、kook、dodo
 - [Milkitic/daylily](https://github.com/Milkitic/daylily)：基于 MilkiBotFramework 的机器人，可作为 MilkiBotFramework 示例仓库
 - [cczu-osa/aki](https://github.com/cczu-osa/aki)：基于 NoneBot 的多功能 QQ 机器人
 - [cleoold/sendo-erika](https://github.com/cleoold/sendo-erika)：基于 cqhttp 和 NoneBot 的，主要通过私聊摇控的 QQ 机器人
@@ -149,3 +148,4 @@
 - [idanran/myrtus](https://github.com/idanran/myrtus): 在多个群组间传话的机器人
 - [Kyomotoi/ATRI](https://github.com/Kyomotoi/ATRI): 为🐧即时聊天工具中复现一只优秀的功能性机器人是本项目的目标
 - [KimigaiiWuyi/GenshinUID](https://github.com/KimigaiiWuyi/GenshinUID): 基于 HoshinoBot/NoneBot2/QQ 官方频道 Bot (Python SDK) 的原神 Uid 查询/原神 Wiki/米社签到/树脂提醒插件
+- [Hoshinonyaruko/Sanaebot](https://github.com/Hoshinonyaruko/SanaeBot): 使用 Epl 编写的 MyPCQQ（MPQ）到 OneBot 11 兼容的娱乐聊天词库机器人——早苗，兼容层兼容 QQ 频道、KOOK、DoDo
