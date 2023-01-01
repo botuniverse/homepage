@@ -11,7 +11,7 @@
   "author": "Richard Chien <stdrc@outlook.com>",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "1.0.0-alpha.31",
+    "vitepress": "1.0.0-alpha.34",
     "vue": "3.2.45"
   }
 }
