@@ -24,7 +24,7 @@
 - 【QQ】[onebot-walle/walle-q](https://github.com/onebot-walle/walle-q)
 - 【QQ】[Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp/tree/onebot.v12)（正在适配中）
 - 【Telegram】[teyda/teyda_preview](https://github.com/teyda/teyda_preview)
-- 【微信公众号】[crazywhalecc/onebot-woap](https://github.com/crazywhalecc/onebot-woap)
+- 【微信公众号】[crazywhalecc/onebot-woap](https://github.com/crazywhalecc/onebot-woap)（正在适配中）
 - 【KOOK】[onebot-walle/walle-k](https://github.com/onebot-walle/walle-k)
 
 ### LibOneBot
@@ -40,6 +40,7 @@
 - 【Python】[nonebot/nonebot2](https://github.com/nonebot/nonebot2)
 - 【C#】[theGravityLab/Onebot.Net](https://github.com/theGravityLab/Onebot.Net)
 - 【Ruby】[fantasyzhjk/onebot-ruby](https://github.com/fantasyzhjk/onebot-ruby)
+- 【PHP】[zhamao-robot/zhamao-framework](https://github.com/zhamao-robot/zhamao-framework)
 
 ### 工具 / 中间件
 
