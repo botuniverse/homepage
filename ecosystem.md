@@ -54,6 +54,7 @@
 - 【QQ】[Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 - 【QQ】[yyuueexxiinngg/onebot-kotlin](https://github.com/yyuueexxiinngg/onebot-kotlin)
 - 【QQ】[takayama-lily/oicq](https://github.com/takayama-lily/oicq/tree/master/http-api)（原仓库为 [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot)）
+- 【QQ】[lc-cn/onebots](https://github.com/lc-cn/onebots)
 - 【QQ】[Yiwen-Chan/OneBot-YaYa](https://github.com/Yiwen-Chan/OneBot-YaYa)（已归档）
 - 【QQ】[kyubotics/coolq-http-api](https://github.com/kyubotics/coolq-http-api)（使用 [mirai-native](https://github.com/iTXTech/mirai-native) 或 [MiraiCQ](https://github.com/super1207/MiraiCQ) 加载）
 - 【开黑啦】[kaiheila-community/kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebot)（已归档）
