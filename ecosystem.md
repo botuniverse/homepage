@@ -95,6 +95,7 @@
 
 - [purerosefallen/onebot-lb](https://github.com/purerosefallen/onebot-lb)：负载均衡器
 - [lunzhiPenxil/OlivOSOnebotV11](https://github.com/lunzhiPenxil/OlivOSOnebotV11)：多账号控制
+- [A-kirami/matcha](https://github.com/A-kirami/matcha)：模拟聊天交互的辅助开发工具
 
 ## 教程
 
