@@ -28,7 +28,7 @@ export default {
 
         footer: {
             message: '以 MIT 许可协议发布',
-            copyright: '版权所有 © 2021-2022 OneBot 社区'
+            copyright: '版权所有 © 2021-2023 OneBot 社区'
         },
     }
 }
