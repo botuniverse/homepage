@@ -39,6 +39,7 @@
 
 - 【Rust】[onebot-walle/Walle](https://github.com/onebot-walle/Walle)
 - 【Python】[nonebot/nonebot2](https://github.com/nonebot/nonebot2)
+- 【Python】[OlivOS-Team/OlivOS](https://github.com/OlivOS-Team/OlivOS)
 - 【C#】[theGravityLab/Onebot.Net](https://github.com/theGravityLab/Onebot.Net)
 - 【Ruby】[fantasyzhjk/onebot-ruby](https://github.com/fantasyzhjk/onebot-ruby)
 - 【PHP】[zhamao-robot/zhamao-framework](https://github.com/zhamao-robot/zhamao-framework)
