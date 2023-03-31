@@ -25,7 +25,7 @@
 - 【QQ】[Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp/tree/onebot.v12)（正在适配中）
 - 【QQ】[lc-cn/onebots](https://github.com/lc-cn/onebots)
 - 【Telegram】[teyda/teyda_preview](https://github.com/teyda/teyda_preview)
-- 【微信公众号】[crazywhalecc/onebot-woap](https://github.com/crazywhalecc/onebot-woap)（正在适配中）
+- 【微信公众号】[crazywhalecc/onebot-woap](https://github.com/crazywhalecc/onebot-woap)
 - 【微信】[JustUndertaker/ComWeChatBotClient](https://github.com/JustUndertaker/ComWeChatBotClient)
 - 【KOOK】[onebot-walle/walle-k](https://github.com/onebot-walle/walle-k)
 
