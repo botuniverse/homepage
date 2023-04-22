@@ -79,3 +79,4 @@ typings/
 .idea
 .vscode
 .vitepress/dist
+.vitepress/cache
