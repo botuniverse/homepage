@@ -11,6 +11,7 @@
 
     --color-gray: #8e8e93;
     --color-black-soft: #242424;
+    --color-black: #000000;
 
     --vp-c-text-2: var(--color-space-gray);
 
@@ -20,12 +21,16 @@
 
     --vp-button-brand-border: var(--color-silver2);
     --vp-button-brand-hover-border: var(--color-silver2);
+    --vp-button-brand-active-border: var(--color-silver2);
     --vp-button-brand-bg: var(--color-midnight);
     --vp-button-brand-hover-bg: var(--color-black-soft);
+    --vp-button-brand-active-bg: var(--color-black-soft);
     --vp-button-alt-border: var(--color-space-gray);
     --vp-button-alt-hover-border: var(--color-space-gray);
+    --vp-button-alt-active-border: var(--color-space-gray);
     --vp-button-alt-bg: var(--color-silver2);
     --vp-button-alt-hover-bg: var(--color-silver);
+    --vp-button-alt-active-bg: var(--color-silver);
 
     --vp-c-bg-soft: var(--color-silver2);
 }
@@ -39,12 +44,16 @@
 
     --vp-button-brand-border: var(--color-starlight);
     --vp-button-brand-hover-border: var(--color-starlight);
+    --vp-button-brand-active-border: var(--color-starlight);
     --vp-button-brand-bg: var(--color-midnight);
     --vp-button-brand-hover-bg: var(--color-space-gray);
+    --vp-button-brand-active-bg: var(--color-space-gray);
     --vp-button-alt-border: var(--color-gray);
     --vp-button-alt-hover-border: var(--color-gray);
+    --vp-button-alt-active-border: var(--color-gray);
     --vp-button-alt-bg: var(--color-graphite);
     --vp-button-alt-hover-bg: var(--color-space-gray);
+    --vp-button-alt-active-bg: var(--color-space-gray);
 
     --vp-c-bg-soft: var(--color-graphite);
 }
