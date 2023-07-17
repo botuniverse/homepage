@@ -72,6 +72,7 @@
 - 【Python】[Lxns-Network/nakuru-project](https://github.com/Lxns-Network/nakuru-project)
 - 【Python】[OlivOS-Team/OlivOS](https://github.com/OlivOS-Team/OlivOS)
 - 【Python】[st1020/alicebot](https://github.com/st1020/alicebot)
+- 【Python】[PigBotFramework/v4](https://github.com/PigBotFramework/v4)
 - 【Node】[koishijs/koishi](https://github.com/koishijs/koishi)
 - 【Node】[Circkoooooo/cqhttp-ts](https://github.com/Circkoooooo/cqhttp-ts)
 - 【Deno】[satouriko/deno-cqhttp](https://github.com/satouriko/deno-cqhttp)
