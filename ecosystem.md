@@ -60,6 +60,7 @@
 - 【QQ】[lc-cn/onebots](https://github.com/lc-cn/onebots)
 - 【QQ】[Yiwen-Chan/OneBot-YaYa](https://github.com/Yiwen-Chan/OneBot-YaYa)（已归档）
 - 【QQ】[kyubotics/coolq-http-api](https://github.com/kyubotics/coolq-http-api)（使用 [mirai-native](https://github.com/iTXTech/mirai-native) 或 [MiraiCQ](https://github.com/super1207/MiraiCQ) 加载）
+- 【QQ】[Hoshinonyaruko/Gensokyo](https://github.com/Hoshinonyaruko/Gensokyo)使用q.qq.com官方api实现的onebotv11实现
 - 【开黑啦】[kaiheila-community/kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebot)（已归档）
 - 【开黑啦】[super1207/KookOneBot](https://github.com/super1207/KookOneBot)
 
