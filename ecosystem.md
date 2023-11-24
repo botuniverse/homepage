@@ -54,6 +54,7 @@
 
 ### OneBot 实现
 
+- 【QQ】[OpenShamrock](https://github.com/whitechi73/OpenShamrock) [论坛](https://forum.libfekit.so/) （手机 QQ Xposed Hook 方案）
 - 【QQ】[Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 - 【QQ】[yyuueexxiinngg/onebot-kotlin](https://github.com/yyuueexxiinngg/onebot-kotlin)
 - 【QQ】[takayama-lily/oicq](https://github.com/takayama-lily/oicq/tree/master/http-api)（原仓库为 [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot)）
