@@ -8,6 +8,7 @@
     --color-gold: #f8e5cd;
     --color-graphite: #53524e;
     --color-sierra-blue: #a8bfd7;
+    --color-soft-amber: #d1bfa8;
 
     --color-gray: #8e8e93;
     --color-black-soft: #242424;
@@ -15,9 +16,8 @@
 
     --vp-c-text-2: var(--color-space-gray);
 
-    --vp-c-brand: var(--color-midnight);
-    --vp-c-brand-dark: var(--color-space-gray);
-    --vp-c-brand-light: var(--color-graphite);
+    --vp-c-brand-1: var(--color-midnight);
+    --vp-c-brand-2: var(--color-space-gray);
 
     --vp-button-brand-border: var(--color-silver2);
     --vp-button-brand-hover-border: var(--color-silver2);
@@ -38,9 +38,8 @@
 .dark {
     --vp-c-text-2: var(--color-silver);
 
-    --vp-c-brand: var(--color-starlight);
-    --vp-c-brand-dark: var(--color-space-gray);
-    --vp-c-brand-light: var(--color-graphite);
+    --vp-c-brand-1: var(--color-starlight);
+    --vp-c-brand-2: var(--color-soft-amber);
 
     --vp-button-brand-border: var(--color-starlight);
     --vp-button-brand-hover-border: var(--color-starlight);
