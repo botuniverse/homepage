@@ -64,6 +64,7 @@
 - 【QQ】[Hoshinonyaruko/Gensokyo](https://github.com/Hoshinonyaruko/Gensokyo)（基于 QQ 开放平台官方 API）
 - 【开黑啦】[kaiheila-community/kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebot)（已归档）
 - 【开黑啦】[super1207/KookOneBot](https://github.com/super1207/KookOneBot)
+- 【Discord】[Hoshinonyaruko/Gensokyo-Discord](https://github.com/Hoshinonyaruko/Gensokyo-Discord)
 
 ### OneBot SDK
 
