@@ -27,6 +27,7 @@
 - 【微信公众号】[crazywhalecc/onebot-woap](https://github.com/crazywhalecc/onebot-woap)
 - 【微信】[JustUndertaker/ComWeChatBotClient](https://github.com/JustUndertaker/ComWeChatBotClient)
 - 【KOOK】[onebot-walle/walle-k](https://github.com/onebot-walle/walle-k)
+- 【Discord】[ITCraftDevelopmentTeam/OneDisc](https://github.com/ITCraftDevelopmentTeam/OneDisc)
 
 ### LibOneBot
 
@@ -65,6 +66,7 @@
 - 【开黑啦】[kaiheila-community/kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebot)（已归档）
 - 【开黑啦】[super1207/KookOneBot](https://github.com/super1207/KookOneBot)
 - 【Discord】[Hoshinonyaruko/Gensokyo-Discord](https://github.com/Hoshinonyaruko/Gensokyo-Discord)
+- 【Discord】[ITCraftDevelopmentTeam/OneDisc](https://github.com/ITCraftDevelopmentTeam/OneDisc)
 
 ### OneBot SDK
 
