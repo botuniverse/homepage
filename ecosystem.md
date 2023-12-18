@@ -21,8 +21,7 @@
 
 ### OneBot 实现
 
-- 【QQ】[onebot-walle/walle-q](https://github.com/onebot-walle/walle-q)
-- 【QQ】[Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp/tree/onebot.v12)（正在适配中）
+- 【QQ】[onebot-walle/walle-q](https://github.com/onebot-walle/walle-q)（已归档）
 - 【QQ】[lc-cn/onebots](https://github.com/lc-cn/onebots)
 - 【微信公众号】[crazywhalecc/onebot-woap](https://github.com/crazywhalecc/onebot-woap)
 - 【微信】[JustUndertaker/ComWeChatBotClient](https://github.com/JustUndertaker/ComWeChatBotClient)
@@ -58,10 +57,10 @@
 - 【QQ】[OpenShamrock](https://github.com/whitechi73/OpenShamrock) | [官方论坛](https://forum.libfekit.so/)（手机 QQ Xposed Hook 方案）
 - 【QQ】[Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 - 【QQ】[yyuueexxiinngg/onebot-kotlin](https://github.com/yyuueexxiinngg/onebot-kotlin)
-- 【QQ】[takayama-lily/oicq](https://github.com/takayama-lily/oicq/tree/master/http-api)（原仓库为 [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot)）
+- 【QQ】[takayama-lily/oicq](https://github.com/takayama-lily/oicq/tree/master/http-api)（已归档）
 - 【QQ】[lc-cn/onebots](https://github.com/lc-cn/onebots)
 - 【QQ】[Yiwen-Chan/OneBot-YaYa](https://github.com/Yiwen-Chan/OneBot-YaYa)（已归档）
-- 【QQ】[kyubotics/coolq-http-api](https://github.com/kyubotics/coolq-http-api)（使用 [mirai-native](https://github.com/iTXTech/mirai-native) 或 [MiraiCQ](https://github.com/super1207/MiraiCQ) 加载）
+- 【QQ】[kyubotics/coolq-http-api](https://github.com/kyubotics/coolq-http-api)（已归档）
 - 【QQ】[Hoshinonyaruko/Gensokyo](https://github.com/Hoshinonyaruko/Gensokyo)（基于 QQ 开放平台官方 API）
 - 【开黑啦】[kaiheila-community/kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebot)（已归档）
 - 【开黑啦】[super1207/KookOneBot](https://github.com/super1207/KookOneBot)
@@ -95,7 +94,7 @@
 - 【C#】[ParaParty/OneBot-Framework](https://github.com/ParaParty/OneBot-Framework)
 - 【C#】[Milkitic/MilkiBotFramework](https://github.com/Milkitic/MilkiBotFramework)
 - 【C#】[cqbef/cqhttp.WebSocketReverse.NETCore](https://github.com/cqbef/cqhttp.WebSocketReverse.NETCore)
-- 【Java / Kotlin】[HyDevelop/PicqBotX](https://github.com/HyDevelop/PicqBotX)
+- 【Java / Kotlin】[HyDevelop/PicqBotX](https://github.com/HyDevelop/PicqBotX)（已归档）
 - 【Java / Kotlin】[lz1998/Spring-CQ](https://github.com/lz1998/Spring-CQ)
 - 【Java / Kotlin】[MisakaTAT/Shiro](https://github.com/MisakaTAT/Shiro)
 - 【Java / Kotlin】[JuerGenie/juerobot](https://github.com/JuerGenie/juerobot)
@@ -114,7 +113,6 @@
 :::
 
 - 【文章】[使用 nonebot 搭建 qq 群聊机器人](https://zhuanlan.zhihu.com/p/340849952)
-- 【视频】[基于 nonebot2 的 QQ 机器人的制作](https://www.bilibili.com/video/BV1JK4y1D7kX)
 - 【视频】[Python 和 QQ 机器人开发基础培训](https://www.bilibili.com/video/BV19t411679V)（部分内容可能过时，需参考最新文档食用）
 
 ## 应用案例
