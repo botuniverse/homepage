@@ -53,7 +53,7 @@
 ## OneBot 11 / 10 / CQHTTP
 
 ### OneBot 实现
-
+- 【QQ】[Lagrange.OneBot](https://github.com/LagrangeDev/Lagrange.Core)（NTQQ 协议方案）
 - 【QQ】[OpenShamrock](https://github.com/whitechi73/OpenShamrock) | [官方论坛](https://forum.libfekit.so/)（手机 QQ Xposed Hook 方案）
 - 【QQ】[Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp)
 - 【QQ】[yyuueexxiinngg/onebot-kotlin](https://github.com/yyuueexxiinngg/onebot-kotlin)
