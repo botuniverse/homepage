@@ -100,6 +100,7 @@
 - 【Java / Kotlin】[lz1998/Spring-CQ](https://github.com/lz1998/Spring-CQ)
 - 【Java / Kotlin】[MisakaTAT/Shiro](https://github.com/MisakaTAT/Shiro)
 - 【Java / Kotlin】[JuerGenie/juerobot](https://github.com/JuerGenie/juerobot)
+- 【Java / Kotlin】[MrXiaoM/Overflow](https://github.com/MrXiaoM/Overflow)
 - 【C++】[super1207/MiraiCQ](https://github.com/super1207/MiraiCQ)
 
 ### 工具 / 中间件
