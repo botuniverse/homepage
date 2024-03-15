@@ -68,6 +68,7 @@
 - 【Discord】[Hoshinonyaruko/Gensokyo-Discord](https://github.com/Hoshinonyaruko/Gensokyo-Discord)
 - 【Discord】[ITCraftDevelopmentTeam/OneDisc](https://github.com/ITCraftDevelopmentTeam/OneDisc)
 - 【微信公众平台】[Hoshinonyaruko/Gensokyo-wxmp](https://github.com/Hoshinonyaruko/Gensokyo-wxmp)（基于微信公众号+小程序 API）
+- 【Telegram】[Hoshinonyaruko/Gensokyo-telegram](https://github.com/Hoshinonyaruko/Gensokyo-telegram)
 
 ### OneBot SDK
 
