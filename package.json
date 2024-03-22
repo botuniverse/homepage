@@ -11,8 +11,8 @@
   "author": "Richard Chien <stdrc@outlook.com>",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "1.0.0-rc.31",
-    "vue": "3.3.11"
+    "vitepress": "1.0.1",
+    "vue": "3.4.21"
   },
   "engines": {
     "node": ">=18.12.0"
