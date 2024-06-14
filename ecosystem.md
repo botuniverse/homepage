@@ -103,6 +103,7 @@
 - 【Java / Kotlin】[JuerGenie/juerobot](https://github.com/JuerGenie/juerobot)
 - 【Java / Kotlin】[MrXiaoM/Overflow](https://github.com/MrXiaoM/Overflow)
 - 【C++】[super1207/MiraiCQ](https://github.com/super1207/MiraiCQ)
+- 【Java / Kotlin(KMP)】[simbot-component-onebot](https://github.com/Simple-robot/simbot-component-onebot/)
 
 ### 工具 / 中间件
 
