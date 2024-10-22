@@ -82,6 +82,7 @@
 - 【Python】[OlivOS-Team/OlivOS](https://github.com/OlivOS-Team/OlivOS)
 - 【Python】[AliceBotProject/alicebot](https://github.com/AliceBotProject/alicebot)
 - 【Python】[PigBotFramework/next](https://github.com/PigBotFramework/next)
+- 【Python】[Meloland/melobot](https://github.com/Meloland/melobot)
 - 【Node】[koishijs/koishi](https://github.com/koishijs/koishi)
 - 【Node】[Circkoooooo/cqhttp-ts](https://github.com/Circkoooooo/cqhttp-ts)
 - 【Node】[kotorijs/kotori](https://github.com/kotorijs/kotori)
