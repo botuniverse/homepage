@@ -86,6 +86,7 @@
 - 【Node】[koishijs/koishi](https://github.com/koishijs/koishi)
 - 【Node】[Circkoooooo/cqhttp-ts](https://github.com/Circkoooooo/cqhttp-ts)
 - 【Node】[kotorijs/kotori](https://github.com/kotorijs/kotori)
+- 【Node】[SimonShiki/philia](https://github.com/SimonShiki/philia)
 - 【Deno】[satouriko/deno-cqhttp](https://github.com/satouriko/deno-cqhttp)
 - 【PHP】[zhamao-robot/zhamao-framework](https://github.com/zhamao-robot/zhamao-framework)
 - 【PHP】[LovelyA72/YeziiBot-v2](https://github.com/LovelyA72/YeziiBot-v2)
