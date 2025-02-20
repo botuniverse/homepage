@@ -173,3 +173,4 @@
 - [KimigaiiWuyi/GenshinUID](https://github.com/KimigaiiWuyi/GenshinUID): 基于 HoshinoBot/NoneBot2/QQ 官方频道 Bot (Python SDK) 的原神 Uid 查询/原神 Wiki/米社签到/树脂提醒插件
 - [Hoshinonyaruko/Sanaebot](https://github.com/Hoshinonyaruko/SanaeBot): 使用 Epl 编写的 MyPCQQ（MPQ）到 OneBot 11 兼容的娱乐聊天词库机器人——早苗，兼容层兼容 QQ 频道、KOOK、DoDo
 - [SilveryStar/Adachi-BOT](https://github.com/SilveryStar/Adachi-BOT): 集成多种基础功能、易开发拓展的聊天机器人框架，兼容 OneBot 11
+- [W1ndys/W1ndysBot](https://github.com/W1ndys/W1ndysBot):基于NapCatQQ和Python的QQ机器人实现,具有多种功能，详情可见：[W1ndysBot](https://github.com/W1ndysBot)
