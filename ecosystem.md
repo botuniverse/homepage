@@ -92,6 +92,7 @@
 - 【PHP】[zhamao-robot/zhamao-framework](https://github.com/zhamao-robot/zhamao-framework)
 - 【PHP】[LovelyA72/YeziiBot-v2](https://github.com/LovelyA72/YeziiBot-v2)
 - 【PHP】[ParaParty/MPBot](https://github.com/ParaParty/MPBot)
+- 【Go】[arttnba3/Shigure-Bot](https://github.com/arttnba3/Shigure-Bot)
 - 【Go】[wdvxdr1123/ZeroBot](https://github.com/wdvxdr1123/ZeroBot)
 - 【Go】[AkiinuBot/go-Pichubot](https://github.com/AkiinuBot/go-Pichubot)
 - 【Go】[BoyChai/CoralBot](https://github.com/BoyChai/CoralBot)
@@ -136,6 +137,7 @@
 - [projectriri/bot-gateway](https://projectriri.github.io/bot-gateway/)：提供跨聊天平台的通用机器人 API 的机器人消息网关
 - [jqqqqqqqqqq/UnifiedMessageRelay](https://github.com/jqqqqqqqqqq/UnifiedMessageRelay)：QQ <-> Telegram Bot Framework & Forwarder
 - [Mother-Ship/cabbageWeb](https://github.com/Mother-Ship/cabbageWeb)：基于 Java Web 的 osu! 游戏数据查询机器人
+- [arttnba3/Shione](https://github.com/arttnba3/Shione)：汐音 (Shione)，基于 Shigure-Bot 的机器人
 - [bdbai/Kobirt](https://github.com/bdbai/Kobirt)：Ingress 游戏辅助机器人
 - [JRT-FOREVER/hub2coolq](https://github.com/JRT-FOREVER/hub2coolq)：GitHub webhook 消息转发至 QQ 群
 - [Kurarion/Bangumi-for-QQ](https://github.com/Kurarion/Bangumi-for-QQ)：用于在 QQ 平台便捷地使用 Bangumi 部分功能（查寻条目、更新条目进度等）
