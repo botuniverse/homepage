@@ -84,6 +84,7 @@
 - 【Python】[PigBotFramework/next](https://github.com/PigBotFramework/next)
 - 【Python】[Meloland/melobot](https://github.com/Meloland/melobot)
 - 【Python】[MuRainBot/MuRainBot2](https://github.com/MuRainBot/MuRainBot2)
+- 【Python】[avilliai/eridanus-dep](https://github.com/avilliai/eridanus-dep)
 - 【Node】[koishijs/koishi](https://github.com/koishijs/koishi)
 - 【Node】[Circkoooooo/cqhttp-ts](https://github.com/Circkoooooo/cqhttp-ts)
 - 【Node】[kotorijs/kotori](https://github.com/kotorijs/kotori)
@@ -178,3 +179,4 @@
 - [KimigaiiWuyi/GenshinUID](https://github.com/KimigaiiWuyi/GenshinUID): 基于 HoshinoBot/NoneBot2/QQ 官方频道 Bot (Python SDK) 的原神 Uid 查询/原神 Wiki/米社签到/树脂提醒插件
 - [Hoshinonyaruko/Sanaebot](https://github.com/Hoshinonyaruko/SanaeBot): 使用 Epl 编写的 MyPCQQ（MPQ）到 OneBot 11 兼容的娱乐聊天词库机器人——早苗，兼容层兼容 QQ 频道、KOOK、DoDo
 - [SilveryStar/Adachi-BOT](https://github.com/SilveryStar/Adachi-BOT): 集成多种基础功能、易开发拓展的聊天机器人框架，兼容 OneBot 11
+- [avilliai/Eridanus](https://github.com/avilliai/Eridanus): 以 LLM 函数调用（Function Calling）为核心编写的多功能机器人，插件化设计，具有一定拓展性
