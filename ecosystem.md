@@ -27,6 +27,7 @@
 - 【微信】[JustUndertaker/ComWeChatBotClient](https://github.com/JustUndertaker/ComWeChatBotClient)
 - 【KOOK】[onebot-walle/walle-k](https://github.com/onebot-walle/walle-k)
 - 【Discord】[ITCraftDevelopmentTeam/OneDisc](https://github.com/ITCraftDevelopmentTeam/OneDisc)
+- 【Vocechat】[Privoce/PyOneBot-Vocechat](https://github.com/Privoce/PyOneBot-Vocechat)
 
 ### LibOneBot
 
