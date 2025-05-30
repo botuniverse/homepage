@@ -96,6 +96,7 @@
 - 【PHP】[zhamao-robot/zhamao-framework](https://github.com/zhamao-robot/zhamao-framework)
 - 【PHP】[LovelyA72/YeziiBot-v2](https://github.com/LovelyA72/YeziiBot-v2)
 - 【PHP】[ParaParty/MPBot](https://github.com/ParaParty/MPBot)
+- 【Go】[nsxdevx/nsxbot](https://github.com/nsxdevx/nsxbot)
 - 【Go】[arttnba3/Shigure-Bot](https://github.com/arttnba3/Shigure-Bot)
 - 【Go】[wdvxdr1123/ZeroBot](https://github.com/wdvxdr1123/ZeroBot)
 - 【Go】[AkiinuBot/go-Pichubot](https://github.com/AkiinuBot/go-Pichubot)
