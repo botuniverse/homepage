@@ -71,7 +71,7 @@
 - 【Discord】[ITCraftDevelopmentTeam/OneDisc](https://github.com/ITCraftDevelopmentTeam/OneDisc)
 - 【微信公众平台】[Hoshinonyaruko/Gensokyo-wxmp](https://github.com/Hoshinonyaruko/Gensokyo-wxmp)（基于微信公众号+小程序 API）
 - 【Telegram】[Hoshinonyaruko/Gensokyo-telegram](https://github.com/Hoshinonyaruko/Gensokyo-telegram)
-- 【Telegram】[Travellerrr/Telegram-Onebot-Adapter](https://github.com/Travellerrr/Telegram-Onebot-Adapter)
+- 【Telegram】[Echomirix/Tele-KiraLink](https://github.com/Echomirix/Tele-KiraLink)
 
 ### OneBot SDK
 
