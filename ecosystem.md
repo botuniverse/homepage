@@ -183,3 +183,4 @@
 - [Hoshinonyaruko/Sanaebot](https://github.com/Hoshinonyaruko/SanaeBot): 使用 Epl 编写的 MyPCQQ（MPQ）到 OneBot 11 兼容的娱乐聊天词库机器人——早苗，兼容层兼容 QQ 频道、KOOK、DoDo
 - [SilveryStar/Adachi-BOT](https://github.com/SilveryStar/Adachi-BOT): 集成多种基础功能、易开发拓展的聊天机器人框架，兼容 OneBot 11
 - [avilliai/Eridanus](https://github.com/avilliai/Eridanus): 以 LLM 函数调用（Function Calling）为核心编写的多功能机器人，插件化设计，具有一定拓展性
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot): 一站式 LLM 聊天机器人平台及开发框架。
